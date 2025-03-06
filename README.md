@@ -20,7 +20,7 @@
 
 | Название | Описание | Стек |
 | -------- | -------- | ---- |
-|          |          |      |
+| [Расчет продуктовых метрик в SQL](https://github.com/AOKonovalov/product_metrics_SQL/blob/main/README.md)  | Считаем продуктовые метрики и метрики бизнеса (DAU, ARPPU, AOV, retention и т.д.) для приложения доставки, которое недавно запустилось          | Postgre SQL, Redash      |
 |          |          |      |
 |          |          |      |
 |          |          |      |
